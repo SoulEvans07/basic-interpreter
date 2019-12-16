@@ -1,0 +1,17 @@
+html, body {
+  height: 100%;
+  margin: 0;
+}
+
+* {
+  outline: none;
+  user-select: none;
+}
+
+input[type="button"], button {
+  user-select: none;
+}
+
+#root {
+  height: 100%;
+}
